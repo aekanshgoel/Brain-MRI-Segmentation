@@ -27,8 +27,8 @@ https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
 <li>Convolutional Neural Network
 
 # Prediction Metrics
-![alt text](https://github.com/aekanshgoel//Brain-MRI-Segmentation/blob/main/loss-graph.png)
-![alt text](https://github.com/aekanshgoel//Brain-MRI-Segmentation/blob/main/accuracy-graph.png)
+![alt text](https://github.com/aekanshgoel/Brain-MRI-Segmentation/blob/main/loss-graph.png)
+![alt text](https://github.com/aekanshgoel/Brain-MRI-Segmentation/blob/main/accuracy-graph.png)
   
 # Prediction Results
 ![alt text](https://github.com/aekanshgoel//Brain-MRI-Segmentation/blob/main/predictions.png)
