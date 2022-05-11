@@ -31,9 +31,9 @@ https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
 ![alt text](https://github.com/aekanshgoel/Brain-MRI-Segmentation/blob/main/accuracy-graph.png)
   
 # Prediction Results
-![alt text](https://github.com/aekanshgoel//Brain-MRI-Segmentation/blob/main/predictions.png)
-  ![alt text](https://github.com/aekanshgoel//Brain-MRI-Segmentation/blob/main/predictions-1.png)
-  ![alt text](https://github.com/aekanshgoel//Brain-MRI-Segmentation/blob/main/predictions-2.png)
+![alt text](https://github.com/aekanshgoel/Brain-MRI-Segmentation/blob/main/predictions.png)
+  ![alt text](https://github.com/aekanshgoel/Brain-MRI-Segmentation/blob/main/predictions-1.png)
+  ![alt text](https://github.com/aekanshgoel/Brain-MRI-Segmentation/blob/main/predictions-2.png)
 
 
 
